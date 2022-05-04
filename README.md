@@ -5,6 +5,10 @@
 yarn install
 ```
 
+### Activate the fake API
+```
+yarn run backend
+````
 ### Compiles and hot-reloads for development
 ```
 yarn serve
